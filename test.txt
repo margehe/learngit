@@ -1,3 +1,1 @@
-PYthon 天下第一
-C/C++ 也是天下第一
-java 天下第二
+It's a nice day!
